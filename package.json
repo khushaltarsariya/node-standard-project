@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/khushaltarsariya/node-standard-project/issues"
   },
-  "homepage": "https://github.com/khushaltarsariya/node-standard-project#readme"
+  "homepage": "https://github.com/khushaltarsariya/node-standard-project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
 }
